@@ -1,0 +1,16 @@
+module PZAP
+{
+    imports
+    {
+        Base
+    }
+
+    /* One generic token item. Which check it belongs to is stored in the item's modData (apCheck). */
+    item APCheck
+    {
+        DisplayName = Archipelago Check,
+        ItemType = base:normal,
+        Icon = archipelago_icon,
+        Weight = 0.01,
+    }
+}

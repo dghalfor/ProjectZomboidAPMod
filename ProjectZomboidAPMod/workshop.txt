@@ -1,0 +1,6 @@
+version=1
+id=12345
+title=Archipelago Project Zomboid
+description=Archipelago randomizer integration for Project Zomboid.
+tags=Build 42;Misc
+visibility=private
